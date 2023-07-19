@@ -1,1 +1,15 @@
 # Minecraft
+- https://mcpedl.com/chunk-visualizer-pack/
+- https://mcpedl.com/more-simple-structures-addon/
+- https://mcpedl.com/mhafy-s-ship-0-9-0/
+- https://mcpedl.com/real-sit-addon/
+- https://mcpedl.com/forsaken-odyssey/
+- https://mcpedl.com/world-animals-addon/
+- https://mcpedl.com/pick-up-carry-addon/
+- https://mcpedl.com/swamp-and-food-expansion-by-aliien/
+- https://mcpedl.com/dragon-mounts-v1-3-25/
+- https://mcpedl.com/healing-campfire/
+- https://mcpedl.com/loled-decoration-addon/
+- https://mcpedl.com/mythological-craft-addon/
+- https://mcpedl.com/advanced-road-tools/
+- https://mcpedl.com/bedrock-travelers-backpack/
